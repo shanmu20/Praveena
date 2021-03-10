@@ -1,2 +1,2 @@
-# Praveena
+# BOOK RECOMMENDATION SYSTEM
 Both the online entertainment and e-commerce companies are trying to retain their customers by taking their access to the website to more personalized manner. So, provide additional recommendations based on users past activity. Our project would be one of such system that recommends additional books that belongs to similar bookauthor or publisher. Such systems result in increase in rate of purchase, these may also include unplanned purchases driven by surprise factor from the recommendations made.  Thus, our business objective is to generate related recommendations(most related books recommendation) for users logged into bookcrossings website.
